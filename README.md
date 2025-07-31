@@ -306,7 +306,7 @@ Version 1.0
 https://github.com/yourusername/CampySer
 ```
 ## 参考文献
-《Updated Campylobacter jejuni Capsule PCR Multiplex Typing System and Its Application to Clinical Isolates from South and Southeast Asia》(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144349)
+.《Updated Campylobacter jejuni Capsule PCR Multiplex Typing System and Its Application to Clinical Isolates from South and Southeast Asia》(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144349).
 
 ## 更新日志
 
