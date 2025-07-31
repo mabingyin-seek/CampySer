@@ -305,12 +305,8 @@ CampySer: A BLAST-based Campylobacter serotyping tool
 Version 1.0
 https://github.com/yourusername/CampySer
 ```
-
-## 联系方式
-
-- 项目主页: https://github.com/yourusername/CampySer
-- 问题反馈: https://github.com/yourusername/CampySer/issues
-- 邮箱: your.email@example.com
+## 参考文献
+《Updated Campylobacter jejuni Capsule PCR Multiplex Typing System and Its Application to Clinical Isolates from South and Southeast Asia》(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144349)
 
 ## 更新日志
 
